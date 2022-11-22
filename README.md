@@ -1,3 +1,3 @@
 # Github Practice
 
-Version control!!!
+Version control for store data!
